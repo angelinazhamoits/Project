@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GunBox
+  - Level
+  - Enemy
+  - GuideCharacter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Groung
+  - Water
+  - UI
+  - Player
+  - MovingEnemy
+  - Traps
+  - Checker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grounded
+    uniqueID: 617144531
+    locked: 0
+  - name: Player
+    uniqueID: 3962928731
+    locked: 0
+  - name: Background
+    uniqueID: 115170397
+    locked: 0
+  - name: Object
+    uniqueID: 3504600319
+    locked: 0
